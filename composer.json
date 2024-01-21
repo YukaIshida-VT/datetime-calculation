@@ -1,5 +1,6 @@
 {
     "name": "ishidayuka/datetime-calculation",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "DatetimeCalculation\\": "src/"
