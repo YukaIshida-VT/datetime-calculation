@@ -12,7 +12,7 @@ composer require ishidayuka/datetime-calculation
 
 ## Usage
 
-- sum Time Aggregation Calculations on DateTimeInterface Instances
+- Sum Time Aggregation Calculations on DateTimeInterface Instances
 
 ```php
 <?php
